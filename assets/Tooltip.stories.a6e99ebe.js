@@ -1,0 +1,2 @@
+import{e as o}from"./index.bf3bdb73.js";import{j as t}from"./jsx-runtime.3cb0cf01.js";import"./index.1b37d221.js";import"./iframe.e1aa9807.js";import"./index.11e0249f.js";const n={title:"Data Display/Tooltip",component:o,args:{children:t("span",{children:"21"}),content:"21 de Outubro - Indispon\xEDvel"}},a={},m=["Primary"];export{a as Primary,m as __namedExportsOrder,n as default};
+//# sourceMappingURL=Tooltip.stories.a6e99ebe.js.map
